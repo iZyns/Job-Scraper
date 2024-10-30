@@ -1,0 +1,5 @@
+linkedin_jobs_scraper==4.0.0
+openai==1.14.2
+pdfplumber==0.11.0
+selenium==4.18.1
+streamlit==1.32.2

@@ -1,0 +1,55 @@
+Vincent Nathaniel Wirawan
+Edmonds, WA | P: (206) 532-9727 | vincentnw24@gmail.com | LinkedIn | GitHub
+Skills: Java, C++, C#, MongoDB, HTML/CSS, MySQL, Python.
+Tools: Git, NumPy, TensorFlow, PyTorch, Docker, Jupyter, Google Colab, Roboflow, OpenCV.
+EDUCATION
+Bachelor of Science in Computer Science & Software Engineering | University of Washington June 2024
+• GPA 3.68 / 4.0
+Associate in Science | Edmonds College June 2022
+• GPA 3.83 / 4.0
+EXPERIENCE
+Software Engineer Internship | IndoCyber Global Teknologi January 2024 – April 2024
+• Collaborated within a team of 15 developers, developing a software for financial document processing utilizing AI.
+• Conducted in-depth research on various models such as Llama 2, yolov8, doccqva, layoutlm, donut, and mistral.
+• Conducted prompt engineering and fine-tuning to optimize model performance across a range of tasks.
+• Utilized advanced NLP pipelines such as LangChain for integrating various LLMs and data sources.
+• Achieved a remarkable 90% increase in AI accuracy through meticulous optimization and refinement of models.
+• Actively participated in code reviews, providing constructive feedback and collaborating with team members to maintain code quality
+and consistency.
+LAHacks | Hackathon April 2023
+• Designed/developed a full-stack website application using MERN stack.
+• Developed an inclusive global education platform with virtual study spaces, chatrooms, and resource sharing to democratize education
+irrespective of location or economic circumstances.
+• Collaborated with a team of four members to successfully implement a user authentication/authorization system using Google API
+during a hackathon, showcasing robust problem-solving skills and effective teamwork.
+Undergraduate Research | Edmonds College January 2021 – June 2021
+• Conducted experiments to evaluate the impact of 5G radio waves on radar altimeter systems in airplanes.
+• Performed flight data tests using drones and developed simulation modules for radar altimeters using Arduino programming.
+• Utilized Arduino programming to read and process flight data from drones.
+• Presented research findings to peers and industry experts at a STEM fair.
+• Received undergraduate research award for successful completion of the experiment.
+Secretary in Computer Science Organization | Edmonds College September 2021 – June 2021
+• Assisted the organization's president in scheduling meetings and managing the organization's calendar.
+• Assisted with the completion and submission of the necessary paperwork for the organization.
+• Coordinated and organized events, such as guest speaker presentations and networking events.
+• Worked with the organization's executive board to develop and implement new initiatives and programs.
+PROJECTS
+LinkedIn Job Scraper March 2024
+• Developed a custom project utilizing various libraries and APIs to extract job postings posted on LinkedIn, integrated with an AI
+model for analyzing job descriptions and user resumes and outputs results of tailored job recommendations based on the user’s
+resume.
+Audio Classification System with Machine Learning November 2023
+• Developed a program to read and extract audio features from speech and music files, utilizing tools like NAudio,
+Exocortex.DSP, Accord.NET, and Aforge.NET to perform Fast Fourier Transformations and extract at least 3 audio features.
+• Leveraged libraries like be.tarsos.dsp for audio processing, FFT for frequency analysis, ARFF file format for dataset storage,
+Weka classes for data manipulation, and Weka classifiers like J48 for building classification models.
+Spring Defense Game Spring 2023
+• Developed a dynamic "Plant vs. Zombie" inspired game utilizing Unity game engine, showcasing proficiency in C#
+programming and Unity development.
+• Designed and implemented various game mechanics and systems to enhance player engagement and interactivity.
+• Created custom assets and integrated prebuilt sound effects to enrich the gaming experience.
+RELEVANT COURSEWORK
+• Data Structures • Algorithms • Multimedia Data Processing
+• Operating Systems • Game Development • Database Systems
+• Discrete Mathematics • Relational Algebra • Information Assurance And
+• Computer Hardware • User-Centered Design Cybersecurity
