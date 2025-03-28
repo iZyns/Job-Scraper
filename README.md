@@ -4,7 +4,7 @@ A simple web scraping tool designed to extract job listings from popular job boa
 
 > 🚧 **Status: In Testing**
 >
-> This project is still under development and may not work as expected. Use at your own risk.
+> This project is still under development and may not work as expected.
 
 ---
 
